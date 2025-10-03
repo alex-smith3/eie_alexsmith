@@ -1,0 +1,14 @@
+commit = saves your changes to local repo with message description
+
+branch = shows, creates or deletes branches (seperate lines of development)
+
+checkout = switches between branches or restores files to a specific version
+
+pull = downloads data from a remote repository and merges them into current branch
+
+merge = combine chnages from one branch to another
+
+rebase = moves or reapplies commits from one branch on top of another
+
+fetch = downloads updates from a remote repo but doesnt change current files
+
