@@ -1,0 +1,17 @@
+git commit - save changes to the local repo
+
+branch = create or view branches
+
+checkout = switch between branches or commits
+
+git pull = get and merge changes from a remote repo
+
+git push = upload your commits to a remote repo
+
+git merge = combine brnaches into another one
+
+rebase = reapply commits on top of another branch
+
+fetch -download changes from a remote repo 
+
+
